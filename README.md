@@ -1,5 +1,21 @@
 # Sistema de Gestión de Citas Médicas
 
+## Imagenes Prueba
+
+<img width="985" height="522" alt="image" src="https://github.com/user-attachments/assets/05398efc-2878-4530-9629-6bc6b060e27b" />
+<img width="986" height="519" alt="image" src="https://github.com/user-attachments/assets/867084aa-d64e-4099-a7ff-7ae5e3759506" />
+<img width="986" height="517" alt="image" src="https://github.com/user-attachments/assets/d9f8e30e-31fc-4b65-8e5e-f61ed331b5af" />
+<img width="1008" height="693" alt="image" src="https://github.com/user-attachments/assets/9b765baf-b99c-4baf-becd-6a0b085c45d6" />
+<img width="1001" height="696" alt="image" src="https://github.com/user-attachments/assets/3ca63669-c509-4de4-9178-c19505da31dc" />
+<img width="989" height="680" alt="image" src="https://github.com/user-attachments/assets/c0de9d2e-6534-4ce7-aec1-4a8bd993cbde" />
+<img width="1030" height="692" alt="image" src="https://github.com/user-attachments/assets/48639b9f-77b5-4e17-8c38-d2c67403354c" />
+<img width="993" height="688" alt="image" src="https://github.com/user-attachments/assets/98823f38-e7e8-42f5-8c52-fcaf6b37afd3" />
+<img width="987" height="682" alt="image" src="https://github.com/user-attachments/assets/52fd7986-beb3-447e-947e-5bb0bd51d1ae" />
+<img width="999" height="692" alt="image" src="https://github.com/user-attachments/assets/6282d077-c26f-41ba-9ea8-93325a7a1554" />
+<img width="1015" height="706" alt="image" src="https://github.com/user-attachments/assets/4420d825-da2f-4d7f-bedc-0290ca467954" />
+
+
+
 ## Descripción
 
 Aplicación de consola desarrollada en C# para la gestión de citas médicas de una clínica.
